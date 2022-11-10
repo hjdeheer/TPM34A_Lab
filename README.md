@@ -41,9 +41,9 @@ We expect students have taken undergraduate courses on the following topics befo
 
 ## 2. Notes
 - This repo provides all the coding and lecture materials to develop your coding task during the course. It means you will primarily use this repo for Parts 1 and 3 of the course.
-- We highly encourage to use **Google Colab**. However, if you insist to run the notebooks in your local environment (i.e. locally on your laptop), you can do so. Please find the instruction for doing so [here](#instructions-to-set-up-your-workspace))
+- We highly encourage to use **Google Colab**. However, if you insist to run the notebooks in your local environment (i.e. locally on your laptop), you can do so. Please find the instruction for doing so [here](#5-instructions-to-set-up-your-workspace))
 - Make sure you use Python 3.7 or above
-- The *requirements.txt* file contains all the Python dependencies needed to run the codes used in this course. In each notebook file, we provide two ways to set up your environments: (1) Google Colab and (2) Local ([see here](#instructions-to-set-up-your-workspace)). Note that this file may be updated during the course to include more dependencies.
+- The *requirements.txt* file contains all the Python dependencies needed to run the codes used in this course. In each notebook file, we provide two ways to set up your environments: (1) Google Colab and (2) Local ([see here](#5-instructions-to-set-up-your-workspace)). Note that this file may be updated during the course to include more dependencies.
 
 ## 3. Calendar
 
