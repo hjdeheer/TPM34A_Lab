@@ -2,7 +2,7 @@
 
 This is the official repo for the TPM34A - Machine learning for socio-technical systems course. In this ReadMe file, you will find all the information and instructions for this course. This repo is mainly developed for Parts 1 and 2 of the course. But, we will update it with all course material. Please read the information below carefully.
 
-**Before you start** If you are not familiar with Python, **you a strongly advised to do** [Python lab session 0](https://github.com/TPM34A/Q2_2022_internal/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb). Lab session 0 provides a crash course Python basics. These basics you will need to succesfully do lab sessions 1 to 3 as well as the assignments. It touches upon topics like, data structures, using external libraries, data exploration, visualization, etc. Also, it will help you set up and familiarise yourself with the coding environment (see [this](#instructions-to-set-up-your-workspace) to prepare your environment)
+**Before you start** If you are not familiar with Python, **you a strongly advised to do** [Python lab session 0](https://github.com/TPM34A/Q2_2022/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb). Lab session 0 provides a crash course Python basics. These basics you will need to succesfully do lab sessions 1 to 3 as well as the assignments. It touches upon topics like, data structures, using external libraries, data exploration, visualization, etc. Also, it will help you set up and familiarise yourself with the coding environment (see [this](#instructions-to-set-up-your-workspace) to prepare your environment)
 
 ## Contents
 1. [Description](#1-description) 
@@ -49,7 +49,7 @@ We expect students have taken undergraduate courses on the following topics befo
 
 | Course Week | Lecture no |   Weekday |       Date |          Time | Teacher | Lecture type | Materials |
 |:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|----------:|
-|      0      |      0     |           |            |               |  Sander |  Lab session |  [Lab session 0](https://github.com/TPM34A/Q2_2022_internal/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|      0      |      0     |           |            |               |  Sander |  Lab session |  [Lab session 0](https://github.com/TPM34A/Q2_2022/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |      1      |      1     |    Monday | 14-11-2022 | 13:45 - 15:45 |  Sander |      Opening |           |
 |      1      |      2     | Wednesday | 16-11-2022 | 13:45 - 15:45 |  Sander | Oral lecture |           |
 |      1      |      3     |  Thursday | 17-11-2022 | 13:45 - 15:45 |  Sander |  Lab session |           |
@@ -73,11 +73,11 @@ We expect students have taken undergraduate courses on the following topics befo
 
 ## 4. Q&A Forum
 
-We will use the [Issues section](https://github.com/TPM34A/Q2_2022_internal/issues) of this repo as the official forum for reporting issues. In the Issues section you can ask various types of questions, including: content-related questions, specific questions about the assignments and lab sessions, and technical problems with Python. Before creating a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can also comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue, see [Issues](https://github.com/TPM34A/Q2_2022_internal/issues) and check it out.
+We will use the [Issues section](https://github.com/TPM34A/Q2_2022/issues) of this repo as the official forum for reporting issues. In the Issues section you can ask various types of questions, including: content-related questions, specific questions about the assignments and lab sessions, and technical problems with Python. Before creating a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can also comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue, see [Issues](https://github.com/TPM34A/Q2_2022/issues) and check it out.
 
 To create a new issue, follow these steps:
 
-- Go to the [Issues section](https://github.com/TPM34A/Q2_2022_internal/issues) of the course repo
+- Go to the [Issues section](https://github.com/TPM34A/Q2_2022/issues) of the course repo
 - Click on **new issue** in the green button located at the upper right of your screen
 - Add a informative title to your question/problem/issue (e.g. "Train method of sk-learn does not import in my notebook")
 - Describe your question/problem clearly and concisely. Make sure that you do not provide answers here for the graded assignments.
