@@ -1,0 +1,54 @@
+Column,Description (NL),Description (EN)
+BU_CODE,Buurtcode,Buurt code
+BU_NAAM,Buurtnaam,Buurt name
+WK_CODE,Wijkcode,District code
+GM_CODE,Gemeentecode,Municipal code
+GM_NAAM,Gemeentenaam,Municipality name
+BEV_DICHTH,Bewoonde woningen,Inhabited houses
+AANT_INW,Aantal inwoners,Population
+AANT_MAN,Mannen,Number of male
+AANT_VROUW,Vrouwen,Number of female
+P_00_14_JR,Percentage personen 0 tot 15 jaar,Percentage of people under 15 years old
+P_15_24_JR,Percentage personen 15 tot 25 jaar,Percentage of persons aged 15 to 25 years old
+P_25_44_JR,Percentage personen 25 tot 45 jaar,Percentage of people aged 25 to 45 years old
+P_45_64_JR,Percentage personen 45 tot 65 jaar,Percentage of people aged 45 to 65  years old
+P_65_EO_JR,Percentage personen 65 jaar en ouder,Percentage of people older than 65 years old
+P_WEST_AL,Percentage personen met een westerse migratieachtergrond,Percentage of people with a Western migration background
+P_N_W_AL,Percentage personen met een niet westerse migratieachtergrond,Percentage of people with a non-Western migration background
+P_MAROKKO,Percentage uit Marokko,Percentage of people with a migration background from Morocco
+P_ANT_ARU,Percentage uit Nederlandse Antillen en Aruba,Percentage of people with a migration background from the Netherlands Antilles and Aruba
+P_SURINAM,Percentage uit Suriname,Percentage of people with a migration background from Surinam
+P_TURKIJE,Percentage uit Turkije,Percentage of people with a migration background from Turkey
+P_OVER_NW,Percentage overige personen met een niet westerse migratieachtergrond,Percentage of people with a non-Western migration background other than the aforementionned ones
+WONINGEN,Woningvoorraad,Number of homes
+P_BEWNDW,Percentage bewoond,Percentage inhabited
+P_KOOPWON,Percentage koopwoningen,Percentage of owner-occupied homes
+P_HUURWON,Percentage huurwoningen,Percentage of rental properties
+P_HUURCORP,Perc Huurwoningen in bezit woningcorporaties,Percentage rental properties owned by housing associations
+P_HUUROVVH,Perc Huurwoningen in bezit overige verhuurders,Percentage rental properties owned by other landlords
+P_WONT2000,Percentage bouwjaarklasse vanaf 2000,Percentage of homes built after 2000
+P_WONV2000,Percentage bouwjaarklasse tot 2000,Percentage of homes built before 2000
+P_LEEGSW,Percentage leegstand woningen,Percentage of vacant homes
+WW_UIT_TOT,WW-uitkeringen totaal, Number of persons benefiting of the Unemployment Insurance Act
+AUTO_HH,Personenauto s per huishouden,Average number of cars per household
+AV1_ARTSPR,Huisartsenpraktijk gemiddeld aantal binnen 1 km,Number of general practitioner located within 1 km
+AF_APOTH,Apotheek gemiddelde afstand in km,Distance to closest pharmacy in km
+AF_ZIEK_I,Ziekenhuis incl buitenpolikliniek gem afst in km,Distance to closest hospital in km
+AV1_SUPERM,Grote supermarkt gemiddeld aantal binnen 1 km,Number of large supermarket located within 1 km
+AV1_DAGLMD,Winkels ov. dagel. levensm. gem aantal binnen 1 km,Number of small shops located within 1 km
+AV1_CAFE,Café gemiddeld aantal binnen 1 km,Number of cafés located within 1 km
+AF_WARENH,Warenhuis gemiddelde afstand in km,Number of large shops located within 1 km
+AV1_RESTAU,Restaurant gemiddeld aantal binnen 1 km,Number of restaurants located within 1 km
+AF_HOTEL,Hotel gemiddelde afstand in km,Distance to closest hotel in km
+AV1_KDV,Kinderdagverblijf gemiddeld aantal binnen 1 km,Number of nurseries located within 1 km
+AV1_BSO,Buitenschoolse opvang gemiddeld aantal binnen 1 km,Number of after-school care located within 1 km
+AV1_ONDBAS,Basisonderwijs aantal binnen 1 km,Number of primary education schools within 1 km
+AF_ONDVRT,Voortgezet onderwijs gem afstand in km,Distance to closest secondary education school in km
+AF_ONDVMB,Vmbo gemiddelde afstand in km,Distance to closest VMBO school in km
+AF_ONDHV,Havo vwo gemiddelde afstand in km,Distance to closest HAVO VMO in km
+AF_TREINST,Treinstation gemiddelde afstand in km,Distance to closest train station in km
+AF_BIBLIO,Bibliotheek gemiddelde afstand in km,Distance to closest library in km
+AF_BIOS,Bioscoop gemiddelde afstand in km,Distance to closest cinema in km
+AF_ATTRAC,Attractiepark gemiddelde afstand in km,Distance to closest amusement park in km
+AF_PODIUM,Theater gemiddelde afstand in km,Distance to closest theater in km
+AF_MUSEUM,Museum gemiddelde afstand in km,Distance to closest museum
