@@ -5,3 +5,4 @@ pandas
 geopandas
 scikit-learn
 openpyxl
+statsmodels
