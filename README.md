@@ -60,16 +60,15 @@ We expect students have taken undergraduate courses on the following topics befo
 |      3      |      8     | Wednesday | 30-11-2022 | 13:45 - 15:45 |  Sander | Oral lecture |           |
 |      3      |      9     |  Thursday | 1-12-2022  | 13:45 - 15:45 |  Sander |  Lab session |           |
 |      4      |     10     |    Monday | 5-12-2022  | 13:45 - 15:45 |   Nadia | Oral lecture |           |
-|      4      |     11     | Wednesday | 7-12-2022  | 13:45 - 15:45 |   Nadia | Oral lecture |           |
-|      4      |     12     |  Thursday | 8-12-2022  | 13:45 - 15:45 |   Nadia |  Lab session |           |
-|      5      |     13     |    Monday | 12-12-2022 | 13:45 - 15:45 |   Nadia | Oral lecture |           |
-|      5      |     14     | Wednesday | 14-12-2022 | 13:45 - 15:45 |   Nadia | Oral lecture |           |
-|      5      |     15     |  Thursday | 15-12-2022 | 13:45 - 15:45 |    Amir | Oral lecture |           |
-|      6      |     16     |    Monday | 19-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
-|      6      |     17     | Wednesday | 21-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
-|      6      |     18     |  Thursday | 22-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
-|      7      |     19     | Wednesday | 11-1-2023  | 13:45 - 15:45 |    Amir | Mini project |           |
-|      7      |     20     |  Thursday | 12-1-2023  | 13:45 - 15:45 |    Amir | Oral lecture |           |
+|      4      |     11     | Wednesday | 7-12-2022  | 13:45 - 15:45 |   Nadia | Lab session  |           |
+|      5      |     12     |    Monday | 12-12-2022 | 13:45 - 15:45 |   Nadia | Oral lecture |           |
+|      5      |     13     | Wednesday | 14-12-2022 | 13:45 - 15:45 |   Nadia | Lab session  |           |
+|      5      |     14     |  Thursday | 15-12-2022 | 13:45 - 15:45 |    Amir | Oral lecture |           |
+|      6      |     15     |    Monday | 19-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
+|      6      |     16     | Wednesday | 21-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
+|      6      |     17     |  Thursday | 22-12-2022 | 13:45 - 15:45 |    Amir | Mini project |           |
+|      7      |     18     | Wednesday | 11-1-2023  | 13:45 - 15:45 |    Amir | Mini project |           |
+|      7      |     19     |  Thursday | 12-1-2023  | 13:45 - 15:45 |    Amir | Oral lecture |           |
 
 ## 4. Q&A Forum
 
